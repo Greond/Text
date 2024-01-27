@@ -1,0 +1,24 @@
+C:\Users\123\source\repos\Text  changer\Text  changer\bin\Debug\Text  changer.exe.config
+C:\Users\123\source\repos\Text  changer\Text  changer\bin\Debug\Text  changer.exe
+C:\Users\123\source\repos\Text  changer\Text  changer\bin\Debug\Text  changer.pdb
+C:\Users\123\source\repos\Text  changer\Text  changer\obj\Debug\Text  changer.csproj.AssemblyReference.cache
+C:\Users\123\source\repos\Text  changer\Text  changer\obj\Debug\Text__changer.Form1.resources
+C:\Users\123\source\repos\Text  changer\Text  changer\obj\Debug\Text__changer.Properties.Resources.resources
+C:\Users\123\source\repos\Text  changer\Text  changer\obj\Debug\Text  changer.csproj.GenerateResource.cache
+C:\Users\123\source\repos\Text  changer\Text  changer\obj\Debug\Text  changer.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\Text  changer\Text  changer\obj\Debug\Text  changer.exe
+C:\Users\123\source\repos\Text  changer\Text  changer\obj\Debug\Text  changer.pdb
+C:\Users\123\source\repos\Text  changer\Text  changer\obj\Debug\Text__changer.AboutBox1.resources
+C:\Users\123\source\repos\Text  changer\Text  changer\obj\Debug\Text__changer.CustomControl1.resources
+C:\Users\123\Source\Repos\Greond\Text\Text  changer\Text  changer\bin\Debug\Text  changer.exe.config
+C:\Users\123\Source\Repos\Greond\Text\Text  changer\Text  changer\bin\Debug\Text  changer.exe
+C:\Users\123\Source\Repos\Greond\Text\Text  changer\Text  changer\bin\Debug\Text  changer.pdb
+C:\Users\123\Source\Repos\Greond\Text\Text  changer\Text  changer\obj\Debug\Text  changer.csproj.AssemblyReference.cache
+C:\Users\123\Source\Repos\Greond\Text\Text  changer\Text  changer\obj\Debug\Text__changer.AboutBox1.resources
+C:\Users\123\Source\Repos\Greond\Text\Text  changer\Text  changer\obj\Debug\Text__changer.CustomControl1.resources
+C:\Users\123\Source\Repos\Greond\Text\Text  changer\Text  changer\obj\Debug\Text__changer.Form1.resources
+C:\Users\123\Source\Repos\Greond\Text\Text  changer\Text  changer\obj\Debug\Text__changer.Properties.Resources.resources
+C:\Users\123\Source\Repos\Greond\Text\Text  changer\Text  changer\obj\Debug\Text  changer.csproj.GenerateResource.cache
+C:\Users\123\Source\Repos\Greond\Text\Text  changer\Text  changer\obj\Debug\Text  changer.csproj.CoreCompileInputs.cache
+C:\Users\123\Source\Repos\Greond\Text\Text  changer\Text  changer\obj\Debug\Text  changer.exe
+C:\Users\123\Source\Repos\Greond\Text\Text  changer\Text  changer\obj\Debug\Text  changer.pdb
