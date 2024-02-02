@@ -1,0 +1,34 @@
+C:\Users\USER\source\repos\чтото большое\чтото большое\bin\Debug\netcoreapp3.1\чтото большое.exe
+C:\Users\USER\source\repos\чтото большое\чтото большое\bin\Debug\netcoreapp3.1\чтото большое.deps.json
+C:\Users\USER\source\repos\чтото большое\чтото большое\bin\Debug\netcoreapp3.1\чтото большое.runtimeconfig.json
+C:\Users\USER\source\repos\чтото большое\чтото большое\bin\Debug\netcoreapp3.1\чтото большое.runtimeconfig.dev.json
+C:\Users\USER\source\repos\чтото большое\чтото большое\bin\Debug\netcoreapp3.1\чтото большое.dll
+C:\Users\USER\source\repos\чтото большое\чтото большое\bin\Debug\netcoreapp3.1\чтото большое.pdb
+C:\Users\USER\source\repos\чтото большое\чтото большое\obj\Debug\netcoreapp3.1\чтото большое.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\чтото большое\чтото большое\obj\Debug\netcoreapp3.1\чтото_большое.Form1.resources
+C:\Users\USER\source\repos\чтото большое\чтото большое\obj\Debug\netcoreapp3.1\чтото большое.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\чтото большое\чтото большое\obj\Debug\netcoreapp3.1\чтото большое.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\чтото большое\чтото большое\obj\Debug\netcoreapp3.1\чтото большое.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\чтото большое\чтото большое\obj\Debug\netcoreapp3.1\чтото большое.AssemblyInfo.cs
+C:\Users\USER\source\repos\чтото большое\чтото большое\obj\Debug\netcoreapp3.1\чтото большое.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\чтото большое\чтото большое\obj\Debug\netcoreapp3.1\чтото большое.dll
+C:\Users\USER\source\repos\чтото большое\чтото большое\obj\Debug\netcoreapp3.1\чтото большое.pdb
+C:\Users\USER\source\repos\чтото большое\чтото большое\obj\Debug\netcoreapp3.1\чтото большое.genruntimeconfig.cache
+C:\Users\USER\source\repos\чтото большое\чтото большое\obj\Debug\netcoreapp3.1\чтото_большое.Form2.resources
+C:\Users\USER\source\repos\text sort practic N7\чтото большое\bin\Debug\netcoreapp3.1\чтото большое.exe
+C:\Users\USER\source\repos\text sort practic N7\чтото большое\bin\Debug\netcoreapp3.1\чтото большое.deps.json
+C:\Users\USER\source\repos\text sort practic N7\чтото большое\bin\Debug\netcoreapp3.1\чтото большое.runtimeconfig.json
+C:\Users\USER\source\repos\text sort practic N7\чтото большое\bin\Debug\netcoreapp3.1\чтото большое.runtimeconfig.dev.json
+C:\Users\USER\source\repos\text sort practic N7\чтото большое\bin\Debug\netcoreapp3.1\чтото большое.dll
+C:\Users\USER\source\repos\text sort practic N7\чтото большое\bin\Debug\netcoreapp3.1\чтото большое.pdb
+C:\Users\USER\source\repos\text sort practic N7\чтото большое\obj\Debug\netcoreapp3.1\чтото большое.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\text sort practic N7\чтото большое\obj\Debug\netcoreapp3.1\чтото_большое.Form1.resources
+C:\Users\USER\source\repos\text sort practic N7\чтото большое\obj\Debug\netcoreapp3.1\чтото_большое.Form2.resources
+C:\Users\USER\source\repos\text sort practic N7\чтото большое\obj\Debug\netcoreapp3.1\чтото большое.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\text sort practic N7\чтото большое\obj\Debug\netcoreapp3.1\чтото большое.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\text sort practic N7\чтото большое\obj\Debug\netcoreapp3.1\чтото большое.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\text sort practic N7\чтото большое\obj\Debug\netcoreapp3.1\чтото большое.AssemblyInfo.cs
+C:\Users\USER\source\repos\text sort practic N7\чтото большое\obj\Debug\netcoreapp3.1\чтото большое.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\text sort practic N7\чтото большое\obj\Debug\netcoreapp3.1\чтото большое.dll
+C:\Users\USER\source\repos\text sort practic N7\чтото большое\obj\Debug\netcoreapp3.1\чтото большое.pdb
+C:\Users\USER\source\repos\text sort practic N7\чтото большое\obj\Debug\netcoreapp3.1\чтото большое.genruntimeconfig.cache
